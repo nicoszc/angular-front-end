@@ -1,0 +1,13 @@
+div {
+    display: flex;
+    justify-content: center;
+    margin: 2cm;
+  }
+  h1{
+    margin: 1cm;
+  }
+  img{
+    max-height: 80%;
+    max-width: 80%; ;
+    margin: 2cm;
+}

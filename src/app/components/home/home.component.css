@@ -1,0 +1,39 @@
+div {
+    display: flex;
+    justify-content: center;
+    margin: 2cm;
+    
+  }
+  h1{
+    margin: 1cm;
+    
+  }
+  img{
+    max-height: 80%;
+    max-width: 80%; ;
+    margin: 2cm;
+}
+
+html,body{height:100%;}
+
+body{
+  background: linear-gradient(135deg, #01373f 0%,#00252d 100%); 
+  overflow:hidden;
+}
+
+
+
+p{
+  font-family: 'Raleway', sans-serif;
+  margin:0;
+  text-transform:uppercase;
+  color:transparent;
+  text-shadow:0 0 10px orange;
+  text-align:center;
+  letter-spacing:2px;
+  animation-name: focus;
+  animation-duration: 2s;
+  animation-iteration-count:infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
+}

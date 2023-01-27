@@ -1,0 +1,11 @@
+.active-link{
+    background-color: rgba(90, 87, 87, 0.452);
+    border-radius: 10px;
+}
+.active-link a {
+   background-color: aqua;
+}
+img{
+    max-height: 3%;
+    max-width: 12%; ;
+}
